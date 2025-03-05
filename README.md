@@ -17,3 +17,8 @@ TCP/IP MODEL
 - Transport layer: 
 - Internet layer: 
 - Network access layer: NIC (network interface card)
+
+MAC ADDRESS
+
+- Mac addresses are a 48-bit binary address that is displayed as a 12-value hex address.
+
