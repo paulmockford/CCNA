@@ -22,3 +22,10 @@ MAC ADDRESS
 
 - Mac addresses are a 48-bit binary address that is displayed as a 12-value hex address.
 
+Ipv4
+
+- Ipv4 is a 32-bit address
+
+Ipv6
+
+- Ipv6 is a 128-bit address 16 byte 32 hex value address
